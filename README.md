@@ -1,6 +1,8 @@
 crud-mongoose-simple
 ====================
 
+#### Forked from our core team member [@Chkhikvadze](https://github.com/Chkhikvadze/crud-mongoose-simple)
+
 [![Build Status](https://travis-ci.org/Chkhikvadze/crud-mongoose-simple.svg?branch=master)](https://github.com/Chkhikvadze/crud-mongoose-simple)
 
 
